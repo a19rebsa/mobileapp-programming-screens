@@ -33,6 +33,7 @@ android {
             }() + ".apk"
         }
     }
+
 }
 
 dependencies {
